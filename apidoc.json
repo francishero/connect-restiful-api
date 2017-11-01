@@ -1,0 +1,8 @@
+{
+    "name": "connect API documentation",
+    "version": "1.0.0",
+    "description": "connect wechat mini app api documentation",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
