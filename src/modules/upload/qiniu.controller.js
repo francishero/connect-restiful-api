@@ -37,8 +37,8 @@ function getToken()
 {
 
 
-var accessKey = '5rcDiVw5VVRIHHmaYr8wBYC83xZkiAXpxY6Jz7iH';
-	var secretKey = 'BxU-HSsnnMTi7WZOSdfpy4n5JC43MaL978WSVWD8';
+var accessKey = 'accesskey_here';
+	var secretKey = 'secretKey_here';
 	var mac = new qiniu.auth.digest.Mac(accessKey, secretKey);
 
 	var options = {
